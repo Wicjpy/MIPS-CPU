@@ -1,4 +1,4 @@
-module TestBanch;
+module TestBench;
   reg clk,nclear,nRST;
   reg InsWrEN;
   reg [31:0] InsDataIn;
